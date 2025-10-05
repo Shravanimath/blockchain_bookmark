@@ -26,7 +26,7 @@ A decentralized application (DApp) that allows users to securely save, manage, a
 
 2. **Install dependencies**
    ```bash
-   pm install
+   npm install
 
 3. *Configure environment variables**  
 Create a `.env` file with your Alchemy URL and wallet private key:
