@@ -31,14 +31,13 @@ A decentralized application (DApp) that allows users to securely save, manage, a
 3. *Configure environment variables**  
 Create a `.env` file with your Alchemy URL and wallet private key:
 
-ALCHEMY_SEPOLIA_URL=YOUR_ALCHEMY_API_URL
-PRIVATE_KEY=YOUR_WALLET_PRIVATE_KEY
+- ALCHEMY_SEPOLIA_URL=YOUR_ALCHEMY_API_URL
+- PRIVATE_KEY=YOUR_WALLET_PRIVATE_KEY
 
 
 4. **Run the frontend**  
 
-```bash
-npm run dev
+     npm run dev
 
 ## Usage
 
