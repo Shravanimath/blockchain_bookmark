@@ -71,11 +71,3 @@ npx hardhat test
 
 Shravani Math – GitHub
 
-📄 License
-
-MIT License
-
-
-This is **all-in-one, ready-to-use**, and GitHub-ready.  
-
-If you want, I can also make a **slightly shorter, “minimalist techie” version with badges and repo stats** so it looks extra sleek on GitHub. Do you want me to do that?
