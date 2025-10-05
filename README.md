@@ -28,19 +28,21 @@ A decentralized application (DApp) that allows users to securely save, manage, a
    ```bash
    pm install
 
-3. **Configure environment variables**
-Create a .env file with your Alchemy URL and wallet private key:
-   
-   ALCHEMY_SEPOLIA_URL=YOUR_ALCHEMY_API_URL
-   PRIVATE_KEY=YOUR_WALLET_PRIVATE_KEY
+3. *Configure environment variables**  
+Create a `.env` file with your Alchemy URL and wallet private key:
 
-   Run the frontend
+ALCHEMY_SEPOLIA_URL=YOUR_ALCHEMY_API_URL
+PRIVATE_KEY=YOUR_WALLET_PRIVATE_KEY
 
-   npm run dev
+
+4. **Run the frontend**  
+
+```bash
+npm run dev
 
 ## Usage
 
-Open the DApp in your browser.
-Connect your MetaMask wallet.
-Add and view bookmarks.
-All interactions are recorded on the blockchain.
+- Open the DApp in your browser.
+- Connect your MetaMask wallet.
+- Add and view bookmarks.
+- All interactions are recorded on the blockchain.
