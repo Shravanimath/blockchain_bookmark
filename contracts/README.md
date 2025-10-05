@@ -1,7 +1,5 @@
 # Blockchain Bookmark DApp
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Ethereum](https://img.shields.io/badge/Network-Sepolia-orange)](https://sepolia.etherscan.io/)
-
 A **decentralized bookmark manager** built on **Ethereum**, allowing users to securely save, manage, and retrieve website bookmarks using **smart contracts**. Leveraging **Solidity**, **Ethers.js**, and **React**, this DApp ensures immutability, transparency, and full user control over data.
 
 ---
